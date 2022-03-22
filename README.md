@@ -52,8 +52,8 @@ to enhance my technical skills and enables me to grow alongside the organization
 
 <p>
   
-  <a href="https://twitter.com/kgaurav113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kgaurav113/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kgaurav113" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kgaurav501/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kgaurav113/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
+  <a href="https://twitter.com/kgaurav113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kgaurav113" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kgaurav501/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
  
 </p>
 

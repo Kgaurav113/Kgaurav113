@@ -33,7 +33,7 @@ to enhance my technical skills and enables me to grow alongside the organization
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> 
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </p>
- -->
+ 
 <!-- <p align="center"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
    <img src="https://img.icons8.com/color/48/000000/css3.png"/>

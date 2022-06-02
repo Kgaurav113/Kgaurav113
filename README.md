@@ -7,7 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/chamarthivamsidev/chamarthivamsidev/main/images/web_development.gif" />
 
-<h3 align="center">A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to work in an organization that offers opportunities
+<h3 align="center">I'm Instrumentation Engineer. from my college days I love coding. After coming to Masai my interest become my passion. 9 9 6 curricula at Masai made me more discipline.
+  A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to working in an organization that offers opportunities
 to enhance my technical skills and enables me to grow alongside the organization.<br>
 
 

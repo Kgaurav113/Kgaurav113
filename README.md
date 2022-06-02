@@ -9,6 +9,24 @@
 
 <h3 align="center">A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to work in an organization that offers opportunities
 to enhance my technical skills and enables me to grow alongside the organization.
+EDUCATION
+Full-Stack Web Development
+Masai School, Bangul
+NOV  2021 - Present
+
+B.TECH ( CGPA-8.01 )
+Branch- Instrumentation Engineering
+Gandhi Institute of Engineering and Technology, Gunupur
+(2012-2016)
+
+
+Class 12 (Science)
+Chatra college Chatra,Chatra
+
+
+Class 10 
+I T S V M High school ,Chatra
+
 </h3>
 
 

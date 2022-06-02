@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/chamarthivamsidev/chamarthivamsidev/main/images/web_development.gif" />
 
 <h3 align="center">A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to work in an organization that offers opportunities
-to enhance my technical skills and enables me to grow alongside the organization.
+to enhance my technical skills and enables me to grow alongside the organization.<br>
 EDUCATION
 Full-Stack Web Development
 Masai School, Bangul

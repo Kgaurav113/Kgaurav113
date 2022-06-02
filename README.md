@@ -23,7 +23,7 @@ to enhance my technical skills and enables me to grow alongside the organization
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
   <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"> 
-<!--   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/redis-CC0000.svg?style=flat&logo=redis&logoColor=white"> --> -->
+<!--   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/redis-CC0000.svg?style=flat&logo=redis&logoColor=white"> -->
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 

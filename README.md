@@ -15,7 +15,7 @@ to enhance my technical skills and enables me to grow alongside the organization
 </h3>
 EDUCATION:-
 <h5>Full-Stack Web Development
-Masai School, Bangul
+Masai School, Banguluru
 NOV  2021 - Present
 
 B.TECH ( CGPA-8.01 )

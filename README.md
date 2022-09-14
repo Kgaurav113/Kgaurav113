@@ -4,7 +4,7 @@
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
-
+<video src='https://github.com/Kgaurav113/Nem111-b19/blob/master/KUMAR%20GAURAV%20(2).mp4' width=180/>
 <img src="https://raw.githubusercontent.com/chamarthivamsidev/chamarthivamsidev/main/images/web_development.gif" />
 
 <h3 align="center">I'm Instrumentation Engineer. from my college days I love coding. After coming to Masai my interest become my passion. 9 9 6 curricula at Masai made me more discipline.

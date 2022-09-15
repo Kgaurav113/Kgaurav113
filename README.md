@@ -4,7 +4,6 @@
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
-
 <img src="https://i.postimg.cc/hPf0cDNp/ezgif-com-gif-maker.gif" width="100%" height="450px"/>
 
 <h3 align="center">I'm Instrumentation Engineer. from my college days I love coding. After coming to Masai my interest become my passion. 9 9 6 curricula at Masai made me more discipline.

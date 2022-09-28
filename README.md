@@ -78,7 +78,7 @@ I T S V M High school ,Chatra</h5>
 
 <p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kgaurav113&show_icons=true&locale=en&layout=compact" alt="gaurav" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaurav113&layout=compact&theme=vue&hide_border=true" />
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kgaurav113)
 

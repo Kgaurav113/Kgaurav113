@@ -87,9 +87,9 @@ I T S V M High school ,Chatra</h5>
 
 <p>
   
-  <a href="https://twitter.com/kgaurav113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kgaurav113" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kgaurav501/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
-   <a href="https://kumargauravportfolio.vercel.app/" target="_blank"><img align="center" src="https://www.seekpng.com/png/detail/154-1545314_portfolio-icon-sales.png" alt="kgaurav113" height="40" width="50" /></a>
+  <a href="https://twitter.com/kgaurav113" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="kgaurav113" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kgaurav501/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="gaurav" height="30" width="40" /></a>
+   <a href="https://kumargauravportfolio.vercel.app/" target="_blank"><img align="center" src="https://previews.123rf.com/images/nexusby/nexusby1802/nexusby180200113/94719567-portfolio-vector-icon.jpg" alt="kgaurav113" height="40" width="50" /></a>
  
 </p>
 

@@ -11,6 +11,15 @@
 to enhance my technical skills and enables me to grow alongside the organization.<br>
 
 
+- 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
+
+- 👨‍💻 My Portfolio - https://kumar-gaurav-portfolio.vercel.app/
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Express & MongoDB. **
+
+- 📫 How to reach me **kgaurav501@gmail.com**
+
+
 </h3>
 EDUCATION:-
 <h5>Full-Stack Web Development

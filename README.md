@@ -1,14 +1,22 @@
-  
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Kumar Gaurav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align='center'> </h1>
-<p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
-</p>
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" height="450px"/>
 
-<h3 align="center">A Passionate Frontend Developer From India
-I'm a Full Stack Developer. Capable of writing production-ready code using React-JS, Redux, and CSS on the frontend ,Node-JS and Express on the backend to build single page applications
-<br>
+<h1 align="center">Hi , I'm Kumar Gaurav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+
+</div>
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <hr/>
+     <div style="display:flex">
+    <p align="left" style="max-width:40%">
+From Jharkhand, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+
+I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+</p>
+
+
+</div>
 
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**

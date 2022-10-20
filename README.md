@@ -6,9 +6,9 @@
 </p>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" height="450px"/>
 
-<h3 align="center">I'm Instrumentation Engineer. from my college days I love coding. After coming to Masai my interest become my passion. 9 9 6 curricula at Masai made me more discipline.
-  A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to working in an organization that offers opportunities
-to enhance my technical skills and enables me to grow alongside the organization.<br>
+<h3 align="center">A Passionate Frontend Developer From India
+I'm a Full Stack Developer. Capable of writing production-ready code using React-JS, Redux, and CSS on the frontend ,Node-JS and Express on the backend to build single page applications
+<br>
 
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
